@@ -1,0 +1,10 @@
+C:\Users\Илья\Desktop\InfoTeh\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe.config
+C:\Users\Илья\Desktop\InfoTeh\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe
+C:\Users\Илья\Desktop\InfoTeh\Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\Илья\Desktop\InfoTeh\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csprojAssemblyReference.cache
+C:\Users\Илья\Desktop\InfoTeh\Biblioteka\Biblioteka\obj\Debug\Biblioteka.Form1.resources
+C:\Users\Илья\Desktop\InfoTeh\Biblioteka\Biblioteka\obj\Debug\Biblioteka.Properties.Resources.resources
+C:\Users\Илья\Desktop\InfoTeh\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\InfoTeh\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\InfoTeh\Biblioteka\Biblioteka\obj\Debug\Biblioteka.exe
+C:\Users\Илья\Desktop\InfoTeh\Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb
